@@ -1,0 +1,6 @@
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+  new Crate({
+    server: '703392805011193898', // The Unspeaks50 Den
+    channel: '706342259678904420' // #unspeaks50_den_chat
+  })
+</script>
